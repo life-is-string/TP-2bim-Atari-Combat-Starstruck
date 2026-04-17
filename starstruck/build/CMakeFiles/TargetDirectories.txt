@@ -1,3 +1,0 @@
-C:/TP-2bim-Atari-Combat-Starstruck/starstruck/build/CMakeFiles/Starstruck.dir
-C:/TP-2bim-Atari-Combat-Starstruck/starstruck/build/CMakeFiles/edit_cache.dir
-C:/TP-2bim-Atari-Combat-Starstruck/starstruck/build/CMakeFiles/rebuild_cache.dir
